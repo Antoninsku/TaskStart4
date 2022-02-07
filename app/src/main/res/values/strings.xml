@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskStart4</string>
+    <string name="edit_name">Enter a name</string>
+    <string name="button_send">Send</string>
+    <string name="edit_age">Enter your age</string>
+
+</resources>
